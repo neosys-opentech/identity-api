@@ -4,9 +4,9 @@ ASP.NET Core api that provides authentification based on Identity nuget and Dapp
 
 # Use cases
 
-+ You're using a RDBMS that doesn't provider identity provider.
-+ You don't want to use EF Core, or you had made already a set of investment on other ORM solution.
-+ You need a kick start on how to implement manually Idenity stores so you can leverage identity independently from identity providers.
++ You're using a RDBMS that isn't supported by EF Core.
++ You don't want to use EF Core, or you had already made a set of investment on other ORM solution.
++ You need a kick start on how to implement manually Identity stores so you can leverage it independently from actual providers.
 
 # Issues
 
